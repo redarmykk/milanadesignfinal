@@ -410,8 +410,9 @@
 
     .order__header {
         font-weight: 700;
-        font-size: 24px;
+        font-size: 22px;
         line-height: 29px;
+        padding-top: 65px;
     }
 
     form input {
